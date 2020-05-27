@@ -1,2 +1,2 @@
 # CallOJ
-An online judge for IIITB
+An online judge for IIITB.
